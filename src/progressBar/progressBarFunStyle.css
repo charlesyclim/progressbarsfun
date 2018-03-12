@@ -1,0 +1,18 @@
+:root {
+  --bar-color-1 : #f27a00;
+  --bar-color-2 : #f27a00;
+  --bar-color-3 : #f27a00;
+}
+
+.progressBar_0 {
+  background-color: var(--bar-color-1);
+  color: var(--bar-color-1);
+}
+.progressBar_1 {
+  background-color: var(--bar-color-2);
+  color: var(--bar-color-2);
+}
+.progressBar_2 {
+  background-color: var(--bar-color-3);
+  color: var(--bar-color-3);
+}
